@@ -12,3 +12,15 @@ Seriously, it’s that easy!
 So, if you found this helpful, make sure to like and follow InfoCrypto for more tips!
 
 *********************************************************************************************************
+Bitcoin
+
+Bitcoin (BTC) is a form of cryptocurrency, which is a type of virtual currency intended to 
+function as a medium of exchange and a payment method independent of any single individual, 
+organization, or authority. This characteristic eliminates the necessity for reliance on 
+trusted intermediaries, such as banks or mints, in financial dealings.
+
+Launched to the public in 2009 by an unidentified developer or collective of developers under 
+the pseudonym Satoshi Nakamoto, Bitcoin has emerged as the most recognized and largest 
+cryptocurrency globally. Its widespread acceptance has led to the creation of numerous 
+other cryptocurrencies.
+
